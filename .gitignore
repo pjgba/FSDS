@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+*.csv
+*.xls
+*.xlsx
+*.zip
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+*.gz
+
 # Distribution / packaging
 .Python
 build/
