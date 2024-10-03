@@ -17,6 +17,7 @@ __pycache__/
 *.parquet
 *.geoparquet
 *.gz
+data/
 
 # Distribution / packaging
 .Python
