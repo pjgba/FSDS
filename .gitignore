@@ -17,6 +17,7 @@ __pycache__/
 *.parquet
 *.geoparquet
 *.gz
+FSDS Token
 data/
 
 # Distribution / packaging
